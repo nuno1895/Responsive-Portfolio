@@ -323,6 +323,10 @@ CSS for Sticky Footer
 			width: 100%;
 		}
 
+		#connect {
+			margin-left: 0px;
+		}
+
 		#aboutme, #portpics, #portfolio, #contactme, #connect {
 			width:100%;
 		}
@@ -348,8 +352,7 @@ CSS for Sticky Footer
 		}	
 
 		#main-container {
-			padding: 20px;
-			width: 100%;
+			padding-top: 20px;
 		}
 
 		nav {
@@ -358,8 +361,12 @@ CSS for Sticky Footer
 
 		nav a {
 			padding: 20px;
-			width: 20%;
+			width: 28%;
 		
+		}
+
+		#connect {
+			margin-left: 0px;
 		}
 
 		#wrapper {	
